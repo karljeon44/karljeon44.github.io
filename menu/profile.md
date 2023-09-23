@@ -14,4 +14,4 @@ permalink: /profile
   * [DDSP + Shallow-Diffusion](https://github.com/beberry-hidden-singer/DDSP-shallow-diffusion)
   * [custom WebUI](https://github.com/beberry-hidden-singer/integrated_webui)
 * Mixing & Mastering (Live Clips)
-  * [프리아뮤직](https://www.youtube.com/@fria_music)
+  * [FriA Music](https://www.youtube.com/@fria_music)
