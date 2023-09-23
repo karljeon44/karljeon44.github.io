@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Profile
+image: profile.jpeg
 permalink: /profile
 ---
 
@@ -9,6 +10,7 @@ permalink: /profile
 * Ph.D. candidate in Computer Science
 
 **Primary Interests**
+
 * SVC (Singing Voice Conversion)
   * [ervc-v2](https://github.com/beberry-hidden-singer/enhanced-RVC-v2)
   * [DDSP + Shallow-Diffusion](https://github.com/beberry-hidden-singer/DDSP-shallow-diffusion)
