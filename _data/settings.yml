@@ -4,9 +4,8 @@ disqus:
   disqus_shortname: 'karljeon44-profile'
 
 menu:
-- {name: 'Profile',   url: 'profile.html'}
-- {name: 'Portfolio', url: 'portfolio.html'}
-#- {name: 'Contact', url: 'contact.html'}
+- {name: 'Profile/프로필',   url: 'profile.html'}
+- {name: 'Portfolio/포트폴리오', url: 'portfolio.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

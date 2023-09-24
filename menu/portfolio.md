@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: Portfolio 포트폴리오
 permalink: /portfolio
 ---
-coming soon
+coming soon 준비중..
