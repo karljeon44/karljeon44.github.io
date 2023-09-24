@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Profile 프로필
+title: Profile
 image: profile.jpeg
 permalink: /profile
 ---
 
 **Karl Jeon** 카를
 (namesake: Carl Jung)
-* Ph.D. candidate in Computer Science (AI 관련분야 박사과정)
+* Ph.D. candidate in Computer Science
 
-**Primary Interests** 최근 관심사
+**Primary Interests**
 
 * SVC (Singing Voice Conversion)
   * [ervc-v2](https://github.com/beberry-hidden-singer/enhanced-RVC-v2)
