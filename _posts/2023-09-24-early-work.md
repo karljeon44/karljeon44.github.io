@@ -13,14 +13,20 @@ Simple workflow that mostly involves:
 ## 베베리 - 기댈 곳
 July 5, 2023
 
-[![베베리 - 기댈 곳](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlGwgZ-sMIHk)](https://external.ink?to=https://www.youtube.com/watch?v=lGwgZ-sMIHk)
+<a href="https://www.youtube.com/watch?v=lGwgZ-sMIHk" target="_blank">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlGwgZ-sMIHk" alt="베베리 - 기댈 곳" title="베베리 - 기댈 곳"/>
+</a>
 
 ## 베베리 - 행복하지 말아요
 May 30, 2023
 
-[![베베리 - 행복하지 말아요](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DI_tcfduS4TQ)](https://external.ink?to=https://www.youtube.com/watch?v=I_tcfduS4TQ)
+<a href="https://www.youtube.com/watch?v=I_tcfduS4TQ" target="_blank">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DI_tcfduS4TQ" alt="베베리 - 행복하지 말아요" title="베베리 - 행복하지 말아요"/>
+</a>
 
 ## 베베리 - 모르시나요
 May 22, 2023
 
-[![베베리 - 모르시나요](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMBH_ppNQzWA)](https://external.ink?to=https://www.youtube.com/watch?v=MBH_ppNQzWA)
+<a href="https://www.youtube.com/watch?v=MBH_ppNQzWA" target="_blank">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMBH_ppNQzWA" alt="베베리 - 모르시나요" title="베베리 - 모르시나요"/>
+</a>

@@ -9,20 +9,28 @@ author: "Karl"
 ## 블러비 - 월하의 그대에게
 September 15, 2023
 
-[![블러비 - 월하의 그대에게](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlE33JRe9o6o)](https://external.ink?to=https://www.youtube.com/watch?v=lE33JRe9o6o)
+<a href="https://www.youtube.com/watch?v=lE33JRe9o6o" target="_blank">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlE33JRe9o6o" alt="블러비 - 월하의 그대에게" title="블러비 - 월하의 그대에게"/>
+</a>
 
 ## 베베리 - 가수가 된 이유
 August 27, 2023
 
-[![베베리 - 가수가 된 이유](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DA3oqjRvbHsk)](https://external.ink?to=https://www.youtube.com/watch?v=A3oqjRvbHsk)
+<a href="https://www.youtube.com/watch?v=A3oqjRvbHsk" target="_blank">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DA3oqjRvbHsk" alt="베베리 - 가수가 된 이유" title="베베리 - 가수가 된 이유"/>
+</a>
 
 ## 바밍 - 장마
 August 20, 2023
 
-[![바밍 - 장마](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxUQmGnTta_4)](https://external.ink?to=https://www.youtube.com/watch?v=xUQmGnTta_4)
+<a href="https://www.youtube.com/watch?v=xUQmGnTta_4" target="_blank">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxUQmGnTta_4" alt="바밍 - 장마" title="바밍 - 장마"/>
+</a>
 
 
 ## 베베리 - 모르시나요
 August 20, 2023
 
-[![베베리 - 모르시나요](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjdsNzb3fss8)](https://external.ink?to=https://www.youtube.com/watch?v=jdsNzb3fss8)
+<a href="https://www.youtube.com/watch?v=jdsNzb3fss8" target="_blank">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjdsNzb3fss8" alt="베베리 - 모르시나요" title="베베리 - 모르시나요"/>
+</a>
