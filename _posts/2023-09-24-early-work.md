@@ -4,7 +4,7 @@ title: "Early Work"
 author: "Karl"
 ---
 
-초기 작품들
+초기 작품들 (믹싱 X)
 
 Simple workflow that mostly involves:
 1. extracting vocals from live clips using [lalal.ai](https://www.lalal.ai/)
