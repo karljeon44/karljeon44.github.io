@@ -5,12 +5,9 @@ image: profile.jpeg
 permalink: /profile
 ---
 
-**Karl Jeon** 카를
-(namesake: Carl Jung)
-* Ph.D. candidate in Computer Science
+**Karl** 카를
 
 **Primary Interests**
-
 * SVC (Singing Voice Conversion)
   * [ervc-v2](https://github.com/beberry-hidden-singer/enhanced-RVC-v2)
   * [DDSP + Shallow-Diffusion](https://github.com/beberry-hidden-singer/DDSP-shallow-diffusion)
