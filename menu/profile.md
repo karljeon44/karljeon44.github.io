@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Profile
-image: profile.jpeg
+image: profile.png
 permalink: /profile
 ---
 
