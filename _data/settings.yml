@@ -4,7 +4,6 @@ disqus:
   disqus_shortname: 'karljeon44-profile'
 
 menu:
-- {name: 'Profile',   url: 'profile.html'}
 - {name: 'Portfolio', url: 'portfolio.html'}
 - {name: 'Research', url: 'research.html'}
 
